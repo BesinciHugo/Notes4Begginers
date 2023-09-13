@@ -9,12 +9,19 @@ Firstly OSI layers And Attacks
 
 According to some of our experienced colleagues, this is also an interview question.
 
+<hr><hr/>
+  
 Secondly Windows Log Event ID List
 
 ![event_log](https://github.com/BesinciHugo/notes4begginers/assets/102539316/1d75fc24-9ff8-4933-8e24-de5694e79e5d)
 
 
+<hr><hr/>
+
 And the last one is Windows Directories 
+
+<hr><hr/>
+
 
 ![soc](https://github.com/BesinciHugo/notes4begginers/assets/102539316/c0f8ac4e-49ba-436e-8473-2134758cbc93)
 
