@@ -18,7 +18,7 @@ Secondly Windows Log Event ID List
 <hr>
 
 
-![event id list](https://github.com/BesinciHugo/notes4begginers/assets/102539316/52a5250a-ee28-468d-909b-f290ef768422)
+![event id list](https://github.com/BesinciHugo/notes4begginers/assets/102539316/6735cdfd-d33f-4726-9276-3f66824dc3e4)
 
 
 <hr>
