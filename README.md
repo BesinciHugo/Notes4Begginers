@@ -17,7 +17,8 @@ According to some of our experienced colleagues, this is also an interview quest
 Secondly Windows Log Event ID List
 <hr>
 
-![event_log](https://github.com/BesinciHugo/notes4begginers/assets/102539316/1d75fc24-9ff8-4933-8e24-de5694e79e5d)
+
+![event id list](https://github.com/BesinciHugo/notes4begginers/assets/102539316/52a5250a-ee28-468d-909b-f290ef768422)
 
 
 <hr>
