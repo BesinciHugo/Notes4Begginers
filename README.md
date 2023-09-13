@@ -1,4 +1,4 @@
-#Notes for Begginers
+# Notes for Begginers
 
 Hi guys, I want to share the notes I hung behind my desk while I was studying when I was just starting cyber security. 
 It helps me a lot while I'm studying, I hope you can benefit too.
