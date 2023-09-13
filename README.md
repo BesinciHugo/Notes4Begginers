@@ -20,8 +20,6 @@ Secondly Windows Log Event ID List
 
 And the last one is Windows Directories 
 
-<hr><hr/>
-
 
 ![soc](https://github.com/BesinciHugo/notes4begginers/assets/102539316/c0f8ac4e-49ba-436e-8473-2134758cbc93)
 
